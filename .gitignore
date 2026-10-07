@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Java / Kotlin
+*.class
+*.jar
+out/
+target/
+
+# C / C++
+*.o
+*.out
+*.exe
+a.out
+build/
+
+# Go / Rust
+bin/
+target/
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Claude Code (ajustes locales)
+.claude/settings.local.json
+CLAUDE.md 
